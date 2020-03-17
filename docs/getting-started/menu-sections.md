@@ -23,18 +23,18 @@ To display the menu with all available sections, the user could do that 2. ways:
 
 ## List of options
 
-1. {% include icon.html name="motorcycle" %} [**Deliveries**]({{site.baseurl}}{% link docs/getting-started/how-to-use-the-driver-screen.md %}) - the main screen for the cook, displaying the list of deliveries, orders, and meals. The cook has the option to setup a meal as <span class="text-orange-200">**cooked**</span>/<span class="text-green-200">**prepared**</span>, finish the order, cancel the order, reset the order and even more.
-1. {% include icon.html name="history" %} [**History**]({{site.baseurl}}{% link docs/history-section/history-section.md %}) - same as the **Kitchen** section, without the option to set meal as <span class="text-orange-200">**cooked**</span>/<span class="text-green-200">**prepared**</span>. The section is displaying the active orders, future orders but also **orders, where meals were already cooked/prepared.**
-1. {% include icon.html name="timeline" %} [**Timeline**]({{site.baseurl}}{% link docs/timeline-section/timeline-section.md %}) - the list of last actions that the cook performs during working with the kitchen application sorted by the date and time.
-1. {% include icon.html name="person_pin_circle" %} [**Tracker**]({{site.baseurl}}{% link docs/tracker-section/tracker-section.md %}) - option to find orders depending on the specific filter or by order ID, partner system ID of the order or phone number.
-1. {% include icon.html name="donut_large" %} [**Overview**]({{site.baseurl}}{% link docs/overview-section/overview-section.md %}) - the user can set the flag for a meal that is no longer available in the kitchen (all supplies for the meal were spent)
-1. {% include icon.html name="people" %} [**Team**]({{site.baseurl}}{% link docs/team-section/team-section.md %}) - the user can set the flag for a meal that is no longer available in the kitchen (all supplies for the meal were spent)
-1. {% include icon.html name="settings" %} [**Settings**]({{site.baseurl}}{% link docs/list-of-settings/list-of-settings.md %}) - list of many settings, which are for design, data, appearance and information purposes
+1. {% include icon.html name="motorcycle" %} [**Deliveries**]({{site.baseurl}}{% link docs/getting-started/how-to-use-the-driver-screen.md %}) - the main screen for the courier, displaying the list of deliveries. The courier has the option to handle the delivery, finish the order, skip or cancel the order, and even more.
+1. {% include icon.html name="history" %} [**History**]({{site.baseurl}}{% link docs/history-section/history-section.md %}) - the courier has the option to preview past and current deliveries. The number of the order from the past is limited
+1. {% include icon.html name="timeline" %} [**Timeline**]({{site.baseurl}}{% link docs/timeline-section/timeline-section.md %}) - the list of last actions that the courier performs during working with the driver application sorted by the date and time. The driver could also preview these steps on the map.
+1. {% include icon.html name="person_pin_circle" %} [**Tracker**]({{site.baseurl}}{% link docs/tracker-section/tracker-section.md %}) - the courier could preview the roadmap of his last positions also with the time information.
+1. {% include icon.html name="donut_large" %} [**Overview**]({{site.baseurl}}{% link docs/overview-section/overview-section.md %}) - the summary of all trips, that the courier did, with the information like collected cash, cash to return, tips, etc.
+1. {% include icon.html name="people" %} [**Team**]({{site.baseurl}}{% link docs/team-section/team-section.md %}) - the list of all users under the account, with the option to call the others
+1. {% include icon.html name="settings" %} [**Settings**]({{site.baseurl}}{% link docs/list-of-settings/list-of-settings.md %}) - list of settings, mostly for the functionality purposes
 1. {% include icon.html name="power_settings_new" %} [**Logout**]({{site.baseurl}}{% link docs/getting-started/how-to-logout.md %}) - the current user will be logged
 
 
-{% include img_smartphone.html name="menu_1.png" %}
+{% include img_smartphone.html name="getting_started_menu_sections_1.png" %}
 
-{% include img_smartphone.html name="menu_2.png" %}
+{% include img_smartphone.html name="getting_started_menu_sections_2.png" %}
 
-{% include img_smartphone.html name="menu_3.png" %}
+{% include img_smartphone.html name="getting_started_menu_sections_3.png" %}

@@ -24,9 +24,7 @@ permalink: /getting-started/how-to-login
 
 {% include img_smartphone.html name="getting_started_how_to_login_1.png" %}
 
-- Type on the first input line **Email** assigned email for the courier. The format of the login name should be an email address, like **test@gmail.com** (just as an example). Be aware to not add spaces on the start or end of the input.
-
-- Type the password for the user. Once you click on the {% include icon.html name="visibility_off" %} eye icon on the right, the password will be displayed (for control purposes). Then click on the <span class="text-orange-200">**SIGN IN**</span> button.
+- Type on the first input line **Email** assigned email for the courier. The format of the login name should be an email address, like **test@gmail.com** (just as an example). Be aware to not add spaces on the start or end of the input. Type the password for the user. Once you click on the {% include icon.html name="visibility_off" %} eye icon on the right, the password will be displayed (for control purposes). Then click on the <span class="text-orange-200">**SIGN IN**</span> button.
 
 {% include img_smartphone.html name="getting_started_how_to_login_12.png" %}
 
@@ -38,9 +36,8 @@ permalink: /getting-started/how-to-login
 
 {% include img_smartphone.html name="getting_started_how_to_login_14.png" %}
 
-
 ## Disable Battery Optimization
-- First of all, let's solve the issue with **Battery Optimization**. Click on the warning block. The description with the steps, how to solve this optimization will be displayed. Click on the <span class="text-orange-200">**DISABLE**</span> button.
+Click on the warning block. The description with the steps, how to solve this optimization, will be displayed. Click on the <span class="text-green-200">**DISABLE**</span> button.
 
 {% include img_smartphone.html name="getting_started_how_to_login_2.png" %}
 
@@ -50,12 +47,26 @@ permalink: /getting-started/how-to-login
 
 {% include img_smartphone.html name="getting_started_how_to_login_4.png" %}
 
-- Search the application **"Orderlord Driver"** (or the name **"Driver"**). Click on the row and change the option to **Don't optimize**. Then click on the <span class="text-blue-100">**Done**</span> button.
+- Search the application **"Orderlord Driver"** (or the name **"Driver"**). Click on the row and change the option to **Don't optimize**. Then click on the <span class="text-blue-100">**Done**</span> button. Everything done, return to the application.
 
 {% include img_smartphone.html name="getting_started_how_to_login_5.png" %}
 
 {% include img_smartphone.html name="getting_started_how_to_login_6.png" %}
 
 ## Enable AutoStart
+Click on the warning block. The description with the steps will be displayed. Click on the <span class="text-green-200">**ADD**</span> button.
+
+{% include img_smartphone.html name="getting_started_how_to_login_7.png" %}
+
+- New list with the applications will be displayed. Search the application **"Orderlord Driver"** (or the name **"Driver"**). Switch the state to the right (ENABLE) for this application. Everything done, return to the application.
+
+{% include img_smartphone.html name="getting_started_how_to_login_8.png" %}
 
 ## Allow access for "Do not disturb mode"
+Click on the warning block. The description with the steps will be displayed. Click on the <span class="text-green-200">**ENABLE**</span> button.
+
+{% include img_smartphone.html name="getting_started_how_to_login_9.png" %}
+
+- New list with the applications will be displayed. Search the application **"Orderlord Driver"** (or the name **"Driver"**). Switch the state to the right (ENABLE) for this application. Everything done, return to the application.
+
+{% include img_smartphone.html name="getting_started_how_to_login_10.png" %}

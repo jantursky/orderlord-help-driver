@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Team section
-nav_order: 3
+nav_order: 7
 has_toc: false
 has_children: true
 permalink: /team-section
@@ -16,14 +16,11 @@ permalink: /team-section
 ---
 
 ## Description
-The list of past actions that the cook performs during working with the kitchen application sorted by the date and time. The user can filter these events by the name or for the specific event type. 
-
-<span class="text-red-200">The number of events logged for the timeline is limited, depending on the device. Once the application was uninstalled, or the cache of the application was deleted (through device Settings), **the timeline data will be deleted**.</span>
+The list of all available users for the account will be listed, sorted by name and surname. The courier has the option to call the user, or edit the phone number before the call. 
 
 ## Table of contents
-- [How to use]({{site.baseurl}}{% link docs/timeline-section/how-to-use.md %})
-- [Filtering the data]({{site.baseurl}}{% link docs/timeline-section/filtering-the-data.md %})
+- [How to use]({{site.baseurl}}{% link docs/team-section/how-to-use.md %})
 
-{% include img_smartphone.html name="promo_supported_android_devices_1.jpg" %}
+{% include img_smartphone.html name="team_section_preview_1.png" %}
 
-{% include img_smartphone.html name="promo_supported_android_devices_1.jpg" %}
+{% include img_smartphone.html name="team_section_preview_2.png" %}

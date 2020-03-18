@@ -1,7 +1,7 @@
 ---
 layout: default
 title: List of Settings
-nav_order: 7
+nav_order: 8
 has_children: true
 has_toc: false
 permalink: /list-of-settings
@@ -16,6 +16,6 @@ LIST OF SETTINGS
 - [Preferred Navigation]({{site.baseurl}}{% link docs/list-of-settings/preferred-navigation.md %})
 - [Notification Sound]({{site.baseurl}}{% link docs/list-of-settings/notification-sound.md %})
 
-{% include img_smartphone.html name="promo_supported_android_devices_1.jpg" %}
+{% include img_smartphone.html name="list_of_settings_preview_1.png" %}
 
-{% include img_smartphone.html name="promo_supported_android_devices_1.jpg" %}
+{% include img_smartphone.html name="list_of_settings_preview_2.png" %}

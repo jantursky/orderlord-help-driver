@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tracker section
-nav_order: 3
+nav_order: 5
 has_toc: false
 has_children: true
 permalink: /tracker-section
@@ -16,7 +16,7 @@ permalink: /tracker-section
 ---
 
 ## Description
-The list of past actions that the cook performs during working with the kitchen application sorted by the date and time. The user can filter these events by the name or for the specific event type. 
+The list of past actions that the courier performs during working with the Driver application sorted by the date and time. The user can filter these events by the name or for the specific event type. He is also able to check the preview on the map.
 
 <span class="text-red-200">The number of events logged for the timeline is limited, depending on the device. Once the application was uninstalled, or the cache of the application was deleted (through device Settings), **the timeline data will be deleted**.</span>
 

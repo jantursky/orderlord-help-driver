@@ -10,10 +10,11 @@ permalink: /
 
 ## Table of contents
 - [Getting Started](getting-started)
+- [History section](history-section)
 - [Timeline section](timeline-section)
-- [Orders History section](orders-history-section)
-- [Stock Management section](stock-management-section)
-- [Printers](printers)
+- [Tracker section](tracker-section)
+- [Overview section](overview-section)
+- [Team section](team-section)
 - [List of Settings](list-of-settings)
 - [Frequently asked questions (FAQ)](frequently-asked-questions-faq)
 - [Changelog](changelog)

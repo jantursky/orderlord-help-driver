@@ -13,9 +13,8 @@ permalink: /changelog/latest-release
 
 ---
 
-**New release 2.8.8 - 08.03.2020**
+**New release 2.8.9 - 17.03.2020**
 {: .label .label-purple }
 ```markdown
-• added map displaying Timeline data - after a click on the timeline row, the map will be displayed
-• improved renewing of token for sending remote notification
+• fixed condition for adding tips and signature of the customer
 ```

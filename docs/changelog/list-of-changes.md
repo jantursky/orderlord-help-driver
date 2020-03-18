@@ -13,6 +13,15 @@ permalink: /changelog/list-of-changes
 
 ---
 
+**New release 2.8.8 - 08.03.2020**
+{: .label .label-purple }
+```markdown
+• added map displaying Timeline data - after a click on the timeline row, the map will be displayed
+• improved renewing of token for sending remote notification
+```
+
+---
+
 **New release 2.8.7 - 02.03.2020**
 {: .label .label-purple }
 ```markdown

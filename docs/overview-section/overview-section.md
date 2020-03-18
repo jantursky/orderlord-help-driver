@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Overview section
-nav_order: 3
+nav_order: 6
 has_toc: false
 has_children: true
 permalink: /overview-section
@@ -16,14 +16,13 @@ permalink: /overview-section
 ---
 
 ## Description
-The list of past actions that the cook performs during working with the kitchen application sorted by the date and time. The user can filter these events by the name or for the specific event type. 
+The preview of all finished deliveries with orders will be summarized in the section. The user can filter these overview for the specific date.
 
-<span class="text-red-200">The number of events logged for the timeline is limited, depending on the device. Once the application was uninstalled, or the cache of the application was deleted (through device Settings), **the timeline data will be deleted**.</span>
+<span class="text-red-200">It could happen, that the user isn't able to access this section. It's because the section is disabled for the courier to be visible. In such a case, you need to ask the administrator of the account (_you need to ask for access_).</span>
 
 ## Table of contents
 - [How to use]({{site.baseurl}}{% link docs/timeline-section/how-to-use.md %})
-- [Filtering the data]({{site.baseurl}}{% link docs/timeline-section/filtering-the-data.md %})
 
-{% include img_smartphone.html name="promo_supported_android_devices_1.jpg" %}
+{% include img_smartphone.html name="overview_section_preview_1.png" %}
 
-{% include img_smartphone.html name="promo_supported_android_devices_1.jpg" %}
+{% include img_smartphone.html name="overview_section_preview_2.png" %}

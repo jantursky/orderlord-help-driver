@@ -17,7 +17,7 @@ permalink: /list-of-settings/design-section/preferred-navigation
 
 ## Description
 The courier could set up, what the navigation will try to open during running the external navigation. Once the external navigtion will be opened, due to the open protocol, it will try to start the navigation in this external application. The list of the options:
-- Default
+- Default - this option will open the default navigation, depending on the set up of the Android device
 - [**Google Maps**](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
 - [**Waze**](https://play.google.com/store/apps/details?id=com.waze)
 - [**MapFactor**](https://play.google.com/store/apps/details?id=com.mapfactor.navigator)

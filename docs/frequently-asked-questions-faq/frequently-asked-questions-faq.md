@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Frequently asked questions (FAQ)
-nav_order: 8
+nav_order: 9
 has_children: true
 has_toc: false
 permalink: /frequently-asked-questions-faq

@@ -27,7 +27,7 @@ When the internet is turned off, the device is not able to connect to the networ
 | close the order									| <span class="text-green-100">{% include icon.html name="check" %}</span> |  |
 | call the customer									| <span class="text-green-100">{% include icon.html name="check" %}</span> |  |
 | arrive to the customer							| <span class="text-green-100">{% include icon.html name="check" %}</span> |  |
-| finish the customer								| <span class="text-green-100">{% include icon.html name="check" %}</span> |  |
+| finish the order for the customer					| <span class="text-green-100">{% include icon.html name="check" %}</span> |  |
 | add tips											| <span class="text-green-100">{% include icon.html name="check" %}</span> |  |
 | add signature										| <span class="text-green-100">{% include icon.html name="check" %}</span> |  |
 

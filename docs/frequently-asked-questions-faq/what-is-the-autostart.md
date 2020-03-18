@@ -15,32 +15,24 @@ permalink: /frequently-asked-questions-faq/what-is-the-autostart
 
 ---
 
-## What is the Disturb mode
-{% include icon.html name="do_not_disturb" %} **Do Not Disturb** allows you to limit or completely silence notifications and alerts on your device. It’s more powerful than simply putting your phone on **silent mode**. Here are a few examples of where Do Not Disturb can come in handy:
+## What is the AutoStart mode
+When creating customized Android firmware, you must typically launch a specific Android application after system boots. Android has two mechanisms for this:
+- **Start an application after Android boot**:
+	- Valid for a standard Android system with multiple applications.
+	- No need to modify and compile Android sources.
+- **Replace the default Android Home application**:
+	- Recommended if your system consists only of this application.
+	- May require you to modify and compile Android sources.
 
-- automatically mute notifications every night while you sleep
-- mute all interruptions until your alarm goes off
-- automatically mute sounds while you’re in a meeting
-- mute all interruptions except your favorite people
-- you can see how **Do Not Disturb** can be very useful in your everyday life. Notifications can be a huge distraction. **Do Not Disturb** manages notifications with three different levels of silence:
+## How to ENABLE AutoStart mode
+You have the option to enable this option on the login screen. On the Driver screen is also displaying the warning notification label, which is informing that you should enable the mode. 
 
-1. **Total silence** – completely mutes your phone. Nothing will get through. Not even alarms.
-1. **Alarms only** – as the name implies, this is like Total Silence except alarms still work.
-1. **Priority only** – mutes everything except alarms, people, reminders, and events that you choose.
+{% include img_smartphone.html name="faq_what_is_the_autostart_1.png" %}
 
-## How to TURN OFF Disturb mode
+Click on the warning block. The description with the steps will be displayed. Click on the <span class="text-green-200">**ADD**</span> button.
 
-- Navigate to the {% include icon.html name="settings" %} settings section. 
-- If the highlighted red row is displaying {% include icon.html name="do_not_disturb_on" %} **"Do Not Disturb" mode**, click on this row. If this row is not displaying, enable the sound notification. If this setting is enabled, Check to see if this row appears after the sound notifications are enabled. If not, then that means, that this application already granted access to handle **"Do Not Disturb" mode**.
+{% include img_smartphone.html name="faq_what_is_the_autostart_2.png" %}
 
-{% include img_smartphone.html name="promo_supported_android_devices_1.jpg" %}
+- New list with the applications will be displayed. Search the application **"Orderlord Driver"** (or the name **"Driver"**). Switch the state to the right (ENABLE) for this application. Everything done, return to the application.
 
-
-- When the new screen is displayed (**Do not disturb access**), find in the list the kitchen application (**KDS**). 
-
-{% include img_smartphone.html name="promo_supported_android_devices_1.jpg" %}
-
-
-- Enable access for this application
-
-{% include img_smartphone.html name="promo_supported_android_devices_1.jpg" %}
+{% include img_smartphone.html name="faq_what_is_the_autostart_3.png" %}

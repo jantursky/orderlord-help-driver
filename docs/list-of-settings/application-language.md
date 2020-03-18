@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Colors
+title: Application Language
 nav_order: 1
 parent: List of Settings
 has_toc: false
-permalink: /list-of-settings/design-section/colors
+permalink: /list-of-settings/design-section/application-language
 ---
 
-# Colors
+# Application Language
 {: .no_toc }
 
 1. TOC
@@ -16,17 +16,13 @@ permalink: /list-of-settings/design-section/colors
 ---
 
 ## Description
-Customize colors for the texts in the list
+The application will restart automatically when you change the language. If the change did not occur, set the same language on your device.
 
 ## Where to find the option
-{% include locate_option.html category_icon="palette" category_name="Design" option_icon="palette" option_name="Colors" %}
+{% include locate_option.html option_name="Application Language" %}
 
-{% include img_smartphone.html name="promo_supported_android_devices_1.jpg" %}
+{% include img_smartphone.html name="list_of_settings_application_language_1.png" %}
 
-{% include img_smartphone.html name="promo_supported_android_devices_1.jpg" %}
+{% include img_smartphone.html name="list_of_settings_application_language_2.png" %}
 
-{% include img_smartphone.html name="promo_supported_android_devices_1.jpg" %}
-
-{% include img_smartphone.html name="promo_supported_android_devices_1.jpg" %}
-
-{% include img_smartphone.html name="promo_supported_android_devices_1.jpg" %}
+{% include img_smartphone.html name="list_of_settings_application_language_3.png" %}

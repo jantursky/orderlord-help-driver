@@ -15,32 +15,36 @@ permalink: /frequently-asked-questions-faq/what-is-the-battery-optimization
 
 ---
 
-## What is the Disturb mode
-{% include icon.html name="do_not_disturb" %} **Do Not Disturb** allows you to limit or completely silence notifications and alerts on your device. It’s more powerful than simply putting your phone on **silent mode**. Here are a few examples of where Do Not Disturb can come in handy:
+## What is the Battery Optimization
+Broadly speaking, the Android platform provides two categories of help for you to optimize your app's battery use. First, it provides several APIs that you can implement in your app. You can learn more about these APIs in Guide to background processing.
 
-- automatically mute notifications every night while you sleep
-- mute all interruptions until your alarm goes off
-- automatically mute sounds while you’re in a meeting
-- mute all interruptions except your favorite people
-- you can see how **Do Not Disturb** can be very useful in your everyday life. Notifications can be a huge distraction. **Do Not Disturb** manages notifications with three different levels of silence:
+There are also internal mechanisms in the platform to help conserve battery life. While they are not APIs that you implement programmatically, you should still be aware of them so that your app can leverage them successfully. For more information, see:
+- **Doze and App Standby**
+- **App Standby Buckets** - the system limits apps' access to device resources like the CPU or battery, based on the user's usage patterns.
+- **Background restrictions** - if an app exhibits bad behaviors, the system prompts the user to restrict that app's access to system resources.
+- **Power management restrictions** - see a list of power restrictions that can be imposed on apps under certain conditions.
 
-1. **Total silence** – completely mutes your phone. Nothing will get through. Not even alarms.
-1. **Alarms only** – as the name implies, this is like Total Silence except alarms still work.
-1. **Priority only** – mutes everything except alarms, people, reminders, and events that you choose.
+## How to DISABLE Battery optimization
+You have the option to disable this option on the login screen. On the Driver screen is also displaying the warning notification label, which is informing that you should disable the optimization. 
 
-## How to TURN OFF Disturb mode
+{% include img_smartphone.html name="faq_what_is_the_battery_optimization_1.png" %}
 
-- Navigate to the {% include icon.html name="settings" %} settings section. 
-- If the highlighted red row is displaying {% include icon.html name="do_not_disturb_on" %} **"Do Not Disturb" mode**, click on this row. If this row is not displaying, enable the sound notification. If this setting is enabled, Check to see if this row appears after the sound notifications are enabled. If not, then that means, that this application already granted access to handle **"Do Not Disturb" mode**.
+Click on the warning block. The description with the steps, how to solve this optimization, will be displayed. Click on the <span class="text-green-200">**DISABLE**</span> button.
 
-{% include img_smartphone.html name="promo_supported_android_devices_1.jpg" %}
+{% include img_smartphone.html name="faq_what_is_the_battery_optimization_2.png" %}
 
+- New list with the applications will be displayed. Click on the <span class="text-blue-100">**Not optimized**</span> label and switch to display **ALL APPLICATIONS**.
 
-- When the new screen is displayed (**Do not disturb access**), find in the list the kitchen application (**KDS**). 
+{% include img_smartphone.html name="faq_what_is_the_battery_optimization_3.png" %}
 
-{% include img_smartphone.html name="promo_supported_android_devices_1.jpg" %}
+{% include img_smartphone.html name="faq_what_is_the_battery_optimization_4.png" %}
 
+- Search the application **"Orderlord Driver"** (or the name **"Driver"**). Click on the row and change the option to **Don't optimize**. Then click on the <span class="text-blue-100">**Done**</span> button. Everything done, return to the application.
 
-- Enable access for this application
+{% include img_smartphone.html name="faq_what_is_the_battery_optimization_5.png" %}
 
-{% include img_smartphone.html name="promo_supported_android_devices_1.jpg" %}
+{% include img_smartphone.html name="faq_what_is_the_battery_optimization_6.png" %}
+
+## External links
+- [Developer Android site](https://developer.android.com/topic/performance/power)
+- [Don't kill the app](https://dontkillmyapp.com/)

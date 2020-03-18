@@ -22,7 +22,6 @@ The list of past actions that the cook performs during working with the Driver a
 
 ## Table of contents
 - [How to use]({{site.baseurl}}{% link docs/timeline-section/how-to-use.md %})
-- [Filtering the data]({{site.baseurl}}{% link docs/timeline-section/filtering-the-data.md %})
 
 {% include img_smartphone.html name="order_history_preview_1.png" %}
 

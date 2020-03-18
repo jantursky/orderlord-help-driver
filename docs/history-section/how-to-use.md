@@ -23,20 +23,14 @@ The whole screen contained from the header, filtering and the list of the result
 Here is the description of the screen:
 1. **Menu icon** - opening the menu with all application sections
 1. **Name of the section** - Timeline section is the default one, but you could select another section through **Menu icon**
-1. **Internet connection indicator** - <span class="text-green-200">**the green circle**</span> is indicating, that the network is stable and the application is successfully connected to the server. <span class="text-red-200">**The red circle**</span> will display, once the internet is not available.
-1. **Number of results** - the amount of results, which are displaying in the list
-1. **Date of data** - selected date, for which the events are displaying. The current date is the default one.
-1. **Search by the phrase** - the user could dynamically search through by typing the text, list of results will be automatically filtered
-1. **Filter by type** - if the user wants to filter the events by specific type, then use this filtering
-1. **Fast scroller** - By long-click down on the fast scroller, the cook can reach the timeline more quickly. At the same time, the current time that is currently displayed is displayed as preview information.
-1. **Icon of the timeline**
-1. **Time of the timeline** - exact time, when this event was performed
-1. **Type of the timeline**
-1. **Description of the timeline** - details about the timeline like **"New value"**, "Name of the item", "Filter data", "Email", "New value", etc.
-1. **Additional info of the timeline** - information, which could help determine the item, order or delivery
+1. **Name of the restaurant**
+1. **Delivery ID**
+1. **Icon of the order** - the last status for the order, cancelled, skipped or finished
+1. **Order counter**
+1. **Address of the customer**
+1. **Time of statuses**
+1. **Name of the customer**
+1. **Total price of the order**
+1. **Payment type**
 
-{% include img_smartphone.html name="promo_supported_android_devices_1.jpg" %}
-
-{% include img_smartphone.html name="promo_supported_android_devices_1.jpg" %}
-
-{% include img_smartphone.html name="promo_supported_android_devices_1.jpg" %}
+{% include img_smartphone.html name="order_history_how_to_use_1.png" %}

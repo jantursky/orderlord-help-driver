@@ -16,14 +16,13 @@ permalink: /tracker-section
 ---
 
 ## Description
-The list of past actions that the courier performs during working with the Driver application sorted by the date and time. The user can filter these events by the name or for the specific event type. He is also able to check the preview on the map.
+The section is allowing the courier to preview the map of his last paths also with the date+time, when he was on this position. The courier could also vizualize the path of the courier with {% include icon.html name="directions_car" %} the animated car icon.
 
-<span class="text-red-200">The number of events logged for the timeline is limited, depending on the device. Once the application was uninstalled, or the cache of the application was deleted (through device Settings), **the timeline data will be deleted**.</span>
+<span class="text-red-200">The number of last positions logged is limited, depending on the device. Once the application was uninstalled, or the cache of the application was deleted (through device Settings), **these locations will be deleted**.</span>
 
 ## Table of contents
-- [How to use]({{site.baseurl}}{% link docs/timeline-section/how-to-use.md %})
-- [Filtering the data]({{site.baseurl}}{% link docs/timeline-section/filtering-the-data.md %})
+- [How to use]({{site.baseurl}}{% link docs/tracker-section/how-to-use.md %})
 
-{% include img_smartphone.html name="promo_supported_android_devices_1.jpg" %}
+{% include img_smartphone.html name="tracker_section_preview_1.png" %}
 
-{% include img_smartphone.html name="promo_supported_android_devices_1.jpg" %}
+{% include img_smartphone.html name="tracker_section_preview_2.png" %}

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How to logout
-nav_order: 13
+nav_order: 9
 has_children: true
 has_toc: false
 parent: Getting Started

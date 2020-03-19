@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Menu sections
-nav_order: 11
+nav_order: 7
 has_children: false
 has_toc: false
 parent: Getting Started
@@ -23,7 +23,7 @@ To display the menu with all available sections, the user could do that 2. ways:
 
 ## List of options
 
-1. {% include icon.html name="motorcycle" %} [**Deliveries**]({{site.baseurl}}{% link docs/getting-started/how-to-use-the-driver-screen.md %}) - the main screen for the courier, displaying the list of deliveries. The courier has the option to handle the delivery, finish the order, skip or cancel the order, and even more.
+1. {% include icon.html name="motorcycle" %} [**Deliveries**]({{site.baseurl}}{% link docs/getting-started/how-to-use-the-driver-application.md %}) - the main screen for the courier, displaying the list of deliveries. The courier has the option to handle the delivery, finish the order, skip or cancel the order, and even more.
 1. {% include icon.html name="history" %} [**History**]({{site.baseurl}}{% link docs/history-section/history-section.md %}) - the courier has the option to preview past and current deliveries. The number of the order from the past is limited
 1. {% include icon.html name="timeline" %} [**Timeline**]({{site.baseurl}}{% link docs/timeline-section/timeline-section.md %}) - the list of last actions that the courier performs during working with the driver application sorted by the date and time. The driver could also preview these steps on the map.
 1. {% include icon.html name="person_pin_circle" %} [**Tracker**]({{site.baseurl}}{% link docs/tracker-section/tracker-section.md %}) - the courier could preview the roadmap of his last positions also with the time information.

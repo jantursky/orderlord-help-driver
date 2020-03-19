@@ -25,7 +25,7 @@ Here is the description of the screen:
 1. **Name of the section** - Timeline section is the default one, but you could select another section through **Menu icon**
 1. **Name of the restaurant**
 1. **Delivery ID**
-1. **Icon of the order** - the last status for the order, cancelled, skipped or finished
+1. **Icon of the order** - the last status for the order, canceled, skipped or finished
 1. **Order counter**
 1. **Address of the customer**
 1. **Time of statuses**

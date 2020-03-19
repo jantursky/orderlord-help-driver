@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Update the data
-nav_order: 12
+nav_order: 8
 has_children: false
 has_toc: false
 parent: Getting Started

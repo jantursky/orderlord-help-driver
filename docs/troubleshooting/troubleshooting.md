@@ -14,6 +14,7 @@ permalink: /troubleshooting
 
 ## Table of contents
 - [Login issues]({{site.baseurl}}{% link docs/troubleshooting/login-issues.md %})
+- [GPS issues]({{site.baseurl}}{% link docs/troubleshooting/gps-issues.md %})
 - [Network issues]({{site.baseurl}}{% link docs/troubleshooting/network-issues.md %})
 - [Translation issues]({{site.baseurl}}{% link docs/troubleshooting/translation-issues.md %})
 - [Data issues]({{site.baseurl}}{% link docs/troubleshooting/data-issues.md %})

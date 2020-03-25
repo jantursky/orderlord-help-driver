@@ -30,12 +30,11 @@ permalink: /frequently-asked-questions-faq/what-is-the-disturb-mode
 
 ## How to TURN OFF Disturb mode
 
-- Navigate to the {% include icon.html name="settings" %} settings section. 
-- If the highlighted red row is displaying {% include icon.html name="do_not_disturb_on" %} **"Do Not Disturb" mode**, click on this row. If this row is not displaying, enable the sound notification. If this setting is enabled, Check to see if this row appears after the sound notifications are enabled. If not, then that means, that this application already granted access to handle **"Do Not Disturb" mode**.
+- If the highlighted green row is displaying {% include icon.html name="do_not_disturb_on" %} **Access this app "Do Not Disturb" mode**, click on this row. If not, then that means, that this application already granted access to handle **"Do Not Disturb" mode**.
 
 {% include img_smartphone.html name="faq_what_is_the_disturb_mode_1.png" %}
 
-- When the new screen is displayed (**Do not disturb access**), find in the list the kitchen application (**KDS**). 
+- When the new screen is displayed (**Do not disturb access**), find in the list the Driver application (**Driver**). 
 
 {% include img_smartphone.html name="faq_what_is_the_disturb_mode_2.png" %}
 

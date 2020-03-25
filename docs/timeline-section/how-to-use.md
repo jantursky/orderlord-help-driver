@@ -24,7 +24,7 @@ The user could preview the event on the map - by clicking on the specific event.
 ## Description of the Timeline screen
 Here is the description of the screen:
 1. **Menu icon** - opening the menu with all application sections
-1. **Name of the section** - Timeline section is the default one, but you could select another section through **Menu icon**
+1. **Name of the section** - {% include icon.html name="motorcycle" %} Deliveries section is the default one, but you could select another section through **Menu icon**
 1. **Date of data** - selected date, for which the events are displaying. The current date is the default one.
 1. **Search by the phrase** - the user could dynamically search through by typing the text, list of results will be automatically filtered
 1. **Filter by type** - if the user wants to filter the events by specific type, then use this filtering

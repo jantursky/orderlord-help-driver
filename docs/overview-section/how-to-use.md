@@ -22,7 +22,7 @@ The whole screen contained from the header, filtering and the list of the result
 ## Description of the Overview screen
 Here is the description of the screen:
 1. **Menu icon** - opening the menu with all application sections
-1. **Name of the section** - Timeline section is the default one, but you could select another section through **Menu icon**
+1. **Name of the section** - {% include icon.html name="motorcycle" %} Deliveries section is the default one, but you could select another section through **Menu icon**
 1. **Date of data** - selected date, for which the events are displaying. The current date is the default one.
 1. **Courier profit**
 1. **Visual preview** - red slice is <span class="text-red-200">_total profit_</span>, green slice is <span class="text-green-200">_total cash - total profit_</span>

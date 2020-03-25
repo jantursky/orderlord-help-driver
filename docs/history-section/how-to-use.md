@@ -17,12 +17,12 @@ permalink: /history-section/how-to-use
 ---
 
 ## How to use the screen
-The whole screen contained from the header, filtering and the list of the results. The user can filter for the specific date by clicking on the black **DATE** row. This row is also swipeable, to the left and right for faster selecting previous or next day. The user can't select the date in the future. Quick filter by typing the text is under the filtering by date. By clicking on the right icon {% include icon.html name="filter_list" %}, the dialog with selecting a specific type of event will be displayed. The list of results with a fast scroller is displayed under this filtering row.
+The whole screen contained from the header, filtering and the list of the orders. The user can also preview all meals for every order - just by clicking on the row with the order all meals will be displayed.
 
-## Description of the Timeline screen
+## Description of the History screen
 Here is the description of the screen:
 1. **Menu icon** - opening the menu with all application sections
-1. **Name of the section** - Timeline section is the default one, but you could select another section through **Menu icon**
+1. **Name of the section** - {% include icon.html name="motorcycle" %} Deliveries section is the default one, but you could select another section through **Menu icon**
 1. **Name of the restaurant**
 1. **Delivery ID**
 1. **Icon of the order** - the last status for the order, canceled, skipped or finished

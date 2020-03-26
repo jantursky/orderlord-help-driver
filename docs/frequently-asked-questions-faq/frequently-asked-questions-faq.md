@@ -17,7 +17,7 @@ permalink: /frequently-asked-questions-faq
 - [Supported Android devices]({{site.baseurl}}{% link docs/frequently-asked-questions-faq/supported-android-devices.md %})
 - [Driver offline mode]({{site.baseurl}}{% link docs/frequently-asked-questions-faq/driver-offline-mode.md %})
 - [How to support your language?]({{site.baseurl}}{% link docs/frequently-asked-questions-faq/how-to-support-your-language.md %})
-- [What is the Disturb mode?]({{site.baseurl}}{% link docs/frequently-asked-questions-faq/what-is-the-battery-optimization.md %})
+- [What is the Battery Optimization?]({{site.baseurl}}{% link docs/frequently-asked-questions-faq/what-is-the-battery-optimization.md %})
 - [What is the AutoStart?]({{site.baseurl}}{% link docs/frequently-asked-questions-faq/what-is-the-autostart.md %})
 - [What is the Disturb mode?]({{site.baseurl}}{% link docs/frequently-asked-questions-faq/what-is-the-disturb-mode.md %})
 - [Some sections are not visible]({{site.baseurl}}{% link docs/frequently-asked-questions-faq/some-sections-are-not-visible.md %})

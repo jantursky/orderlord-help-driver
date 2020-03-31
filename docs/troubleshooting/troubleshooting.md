@@ -19,4 +19,5 @@ permalink: /troubleshooting
 - [Translation issues]({{site.baseurl}}{% link docs/troubleshooting/translation-issues.md %})
 - [Data issues]({{site.baseurl}}{% link docs/troubleshooting/data-issues.md %})
 - [Sound issues]({{site.baseurl}}{% link docs/troubleshooting/sound-issues.md %})
+- [Time issues]({{site.baseurl}}{% link docs/troubleshooting/time-issues.md %})
 - [Report your problem]({{site.baseurl}}{% link docs/troubleshooting/report-your-problem.md %})

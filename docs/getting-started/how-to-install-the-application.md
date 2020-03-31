@@ -50,48 +50,48 @@ permalink: /getting-started/how-to-install-the-application
 ## Install from the ApkPure
 - if you aren't able to install the application from the Google Play (unsupported version, lower Android version, etc.), you have the alternative option to install the version from the ApkPure.com website. Open any internet browser in the Android device (in this case **"Chrome"**)
 
-{% include img_tablet.html name="getting_started_how_to_install_the_application_apkpure_1.jpg" %}
+{% include img_smartphone.html name="getting_started_how_to_install_the_application_apkpure_1.jpg" %}
 
 - click in the URL bar for typing the website address
 
-{% include img_tablet.html name="getting_started_how_to_install_the_application_apkpure_2.png" %}
+{% include img_smartphone.html name="getting_started_how_to_install_the_application_apkpure_2.png" %}
 
-- type the address **"www.apkpure.com"** and click on the **GO** button on the virtual keyboard
+- type the address **"www.apkpure.com"** and click on the **GO** button or {% include icon.html name="arrow_forward" %} right arrow on the virtual keyboard
 
-{% include img_tablet.html name="getting_started_how_to_install_the_application_apkpure_3.png" %}
+{% include img_smartphone.html name="getting_started_how_to_install_the_application_apkpure_3.png" %}
 
 - once the website is loaded, click on the {% include icon.html name="search" %} search icon in the upper right corner
 
-{% include img_tablet.html name="getting_started_how_to_install_the_application_apkpure_4.jpg" %}
+{% include img_smartphone.html name="getting_started_how_to_install_the_application_apkpure_4.jpg" %}
 
 - the white search bar in the top screen will be displayed
 
-{% include img_tablet.html name="getting_started_how_to_install_the_application_apkpure_5.jpg" %}
+{% include img_smartphone.html name="getting_started_how_to_install_the_application_apkpure_5.jpg" %}
 
 - type there the search phrase **"Orderlord Driver"** and click again on the {% include icon.html name="search" %} search icon 
 
-{% include img_tablet.html name="getting_started_how_to_install_the_application_apkpure_6.jpg" %}
+{% include img_smartphone.html name="getting_started_how_to_install_the_application_apkpure_6.jpg" %}
 
 - the list of application results will be displayed. The Kitchen application should be the first one in the list, but if not, scroll down in the list and find the application **"Orderlord Driver (Delivery app)"**. Click on that row.
 
-{% include img_tablet.html name="getting_started_how_to_install_the_application_apkpure_7.png" %}
+{% include img_smartphone.html name="getting_started_how_to_install_the_application_apkpure_7.png" %}
 
 - the new screen will be loaded, where are the details of the Kitchen application. Find the green button <span class="text-green-100">**"Download APK"**</span> and click on it.
 
-{% include img_tablet.html name="getting_started_how_to_install_the_application_apkpure_8.png" %}
+{% include img_smartphone.html name="getting_started_how_to_install_the_application_apkpure_8.png" %}
 
 - the new website will be loaded. After a while, the downloading of the application will start, you just need to accept the downloading the file.
 
-{% include img_tablet.html name="getting_started_how_to_install_the_application_apkpure_9.png" %}
+{% include img_smartphone.html name="getting_started_how_to_install_the_application_apkpure_9.png" %}
 
-- wait, until the file is downloaded. Once the file was downloaded, click on the file.
+- wait, until the file is downloaded. Once the file was downloaded, click on the file or <span class="text-blue-100">**OPEN**</span> button.
 
-{% include img_tablet.html name="getting_started_how_to_install_the_application_apkpure_10.png" %}
+{% include img_smartphone.html name="getting_started_how_to_install_the_application_apkpure_10.png" %}
 
 - the installation procedure will be started. Click on the <span class="text-green-100">**"INSTALL"**</span> button.
 
-{% include img_tablet.html name="getting_started_how_to_install_the_application_apkpure_11.png" %}
+{% include img_smartphone.html name="getting_started_how_to_install_the_application_apkpure_11.png" %}
 
 - once the application was installed, the icon will be added to the home screen (depending on the vendor's setup) and you should find the installed Kitchen application in the list of all installed applications.
 
-{% include img_tablet.html name="getting_started_how_to_install_the_application_apkpure_12.jpg" %}
+{% include img_smartphone.html name="getting_started_how_to_install_the_application_apkpure_12.jpg" %}

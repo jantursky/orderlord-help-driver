@@ -34,3 +34,9 @@ Once the GPS module isn't enabled or the mode of GPS localization is low, <span 
 {% include img_smartphone.html name="troubleshooting_gps_issues_5.png" %}
 
 {% include img_smartphone.html name="troubleshooting_gps_issues_6.png" %}
+
+## "Your GPS position is older than 5 minutes" warning message
+Once the courier successfully logs into the application, the warning message on the top could be displayed. This message means, that even if the GPS of the device is running, it could take time, once the GPS is stable and is receiving the near location. If even after a minute-two the application isn't able to find the position of the device, you could speed up the process by opening any of the navigation application, like **"Google Maps"**, **"Waze"**, **"MapFactor"**, etc.. In these applications, the device should be able to do so known "fix GPS", which will reset the searching mechanism, clear the GPS buffered data cache of founded satellites, etc.. Once these applications will fix the GPS, return to the Driver application and the warning message should disappear.
+
+## GPS tracking permission also on the background
+The Driver application needs for the purposes of tracking the driver permission for the location. From the Android version 9.0 and above, the mechanism of finding the GPS position of the device changed. The device will during accepting this permission asks if the application should have access for the location permission **"only while using the app"** or **"all the time"**. Even that we will appreciate asking only for permission while using the app, the driver could during delivering the orders put the application to the background and for instance, starts the navigation application **"Google Maps"**. And our system needs to track the driver the whole time, while he is traveling to the customer, so that is the reason for **"all the time"** option.

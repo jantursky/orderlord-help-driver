@@ -17,7 +17,7 @@ permalink: /history-section/how-to-use
 ---
 
 ## How to use the screen
-The whole screen contained from the header, filtering and the list of the orders. The user can also preview all meals for every order - just by clicking on the row with the order all meals will be displayed.
+The whole screen contained from the header, filtering and the list of the orders. The user can also preview all meals for every order - just by clicking on the row with the order, all meals will be displayed.
 
 ## Description of the History screen
 Here is the description of the screen:

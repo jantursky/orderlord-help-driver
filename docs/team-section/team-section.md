@@ -16,7 +16,7 @@ permalink: /team-section
 ---
 
 ## Description
-The list of all available users for the account will be listed, sorted by name and surname. The courier has the option to call the user, or edit the phone number before the call. 
+The list of all available users for the account will be listed, sorted by name and surname. The courier has the option to call the user or edit the phone number before the call. 
 
 ## Table of contents
 - [How to use]({{site.baseurl}}{% link docs/team-section/how-to-use.md %})

@@ -25,7 +25,7 @@ permalink: /frequently-asked-questions-faq/supported-android-devices
 ## Optional specifications
 - {% include icon.html name="volume_up" %} **Sound hardware** - for purposes of sound notifications about new deliveries and orders
 - {% include icon.html name="nfc" %} **NFC module** - if the courier needs to verify himself with NFC tag in the restaurant
-- {% include icon.html name="screen_rotation" %} **Accelerometer sensor** - for usage of the compass for showing the direction to the restaurant in the application
+- {% include icon.html name="screen_rotation" %} **Accelerometer sensor** - for the usage of the compass for showing the direction to the restaurant in the application
 - {% include icon.html name="call" %} **Telephony module** - if the courier wants to call the customer to contact him
 
 {% include img_single_not_clickable.html name="promo_supported_android_devices_1.jpg" %}

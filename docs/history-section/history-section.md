@@ -18,7 +18,7 @@ permalink: /history-section
 ## Description
 The list of past and present orders assigned to the driver. The user can also preview the list of meals for every order. 
 
-<span class="text-red-200">The number of orders displayed in this section is limited, depending by the server restrictions.</span>
+<span class="text-red-200">The number of orders displayed in this section is limited, depending on the server restrictions.</span>
 
 ## Table of contents
 - [How to use]({{site.baseurl}}{% link docs/history-section/how-to-use.md %})

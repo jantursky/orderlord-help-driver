@@ -17,9 +17,9 @@ permalink: /getting-started/how-to-login
 ---
 
 ## Basic login
-- Open the application **"Orderlord Driver"**. The new screen will be displayed. You could notice, that for the first time, you need to enable some permissions or allow access for some features for proper working of the application:
+- Open the application **"Orderlord Driver"**. The new screen will be displayed. You could notice, that for the first time, you need to enable some permissions or allow access for some features for the proper working of the application:
 	- {% include icon.html name="battery_alert" %} **Battery Optimization** - for better working of background services, like GPS localization and sending/received updates. [You could solve it in this section](#disable-battery-optimization)
-	- {% include icon.html name="block" %} **AutoStart** - this is feature specific for some vendors, like Xiaomi, Letv, Honor, Oppo, Vivo, Huawei, Samsung, Asus etc. This feature is allowing long running background services to be not shutting down once they are running too long. [You could solve it in this section](#enable-autostart)
+	- {% include icon.html name="block" %} **AutoStart** - this is a feature specific for some vendors, like Xiaomi, Letv, Honor, Oppo, Vivo, Huawei, Samsung, Asus, etc. This feature is allowing long-running background services to be not shutting down once they are running too long. [You could solve it in this section](#enable-autostart)
 	- {% include icon.html name="volume_off" %} **Do not Disturb mode** - feature, that will turn down the sounds/notifications for all applications. [You could solve it in this section](#allow-access-for-do-not-disturb-mode)
 
 {% include img_smartphone.html name="getting_started_how_to_login_1.png" %}
@@ -28,7 +28,7 @@ permalink: /getting-started/how-to-login
 
 {% include img_smartphone.html name="getting_started_how_to_login_12.png" %}
 
-- **During first logging into the application**, the Android system will prompt the dialog to allow access for "GPS position", "Reading/Writing into storage" and "Call the customer". This permissions are explained in [this section]({{site.baseurl}}{% link docs/frequently-asked-questions-faq/application-permissions.md %}).
+- **During first logging into the application**, the Android system will prompt the dialog to allow access for "GPS position", "Reading/Writing into storage" and "Call the customer". These permissions are explained in [this section]({{site.baseurl}}{% link docs/frequently-asked-questions-faq/application-permissions.md %}).
 
 {% include img_smartphone.html name="getting_started_how_to_login_13.png" %}
 
@@ -41,24 +41,24 @@ Click on the warning block. The description with the steps, how to solve this op
 
 {% include img_smartphone.html name="getting_started_how_to_login_2.png" %}
 
-- New list with the applications will be displayed. Click on the <span class="text-blue-100">**Not optimized**</span> label and switch to display **ALL APPLICATIONS**.
+- A new list with the applications will be displayed. Click on the <span class="text-blue-100">**Not optimized**</span> label and switch to display **ALL APPLICATIONS**.
 
 {% include img_smartphone.html name="getting_started_how_to_login_3.png" %}
 
 {% include img_smartphone.html name="getting_started_how_to_login_4.png" %}
 
-- Search the application **"Orderlord Driver"** (or the name **"Driver"**). Click on the row and change the option to **Don't optimize**. Then click on the <span class="text-blue-100">**Done**</span> button. Everything done, return to the application.
+- Search the application **"Orderlord Driver"** (or the name **"Driver"**). Click on the row and change the option to **Don't optimize**. Then click on the <span class="text-blue-100">**Done**</span> button. Everything is done, return to the application.
 
 {% include img_smartphone.html name="getting_started_how_to_login_5.png" %}
 
 {% include img_smartphone.html name="getting_started_how_to_login_6.png" %}
 
 ## Enable AutoStart
-Click on the warning block. The description with the steps will be displayed. Click on the <span class="text-green-200">**ADD**</span> button.
+Click on the warning block. The description of the steps will be displayed. Click on the <span class="text-green-200">**ADD**</span> button.
 
 {% include img_smartphone.html name="getting_started_how_to_login_7.png" %}
 
-- New list with the applications will be displayed. Search the application **"Orderlord Driver"** (or the name **"Driver"**). Switch the state to the right (ENABLE) for this application. Everything done, return to the application.
+- New list with the applications will be displayed. Search the application **"Orderlord Driver"** (or the name **"Driver"**). Switch the state to the right **(ENABLE)** for this application. Everything is done, return to the application.
 
 {% include img_smartphone.html name="getting_started_how_to_login_8.png" %}
 
@@ -67,6 +67,6 @@ Click on the warning block. The description with the steps will be displayed. Cl
 
 {% include img_smartphone.html name="getting_started_how_to_login_9.png" %}
 
-- New list with the applications will be displayed. Search the application **"Orderlord Driver"** (or the name **"Driver"**). Switch the state to the right (ENABLE) for this application. Everything done, return to the application.
+- A new list with the applications will be displayed. Search the application **"Orderlord Driver"** (or the name **"Driver"**). Switch the state to the right **(ENABLE)** for this application. Everything is done, return to the application.
 
 {% include img_smartphone.html name="getting_started_how_to_login_10.png" %}

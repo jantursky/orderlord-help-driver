@@ -33,13 +33,13 @@ Click on the warning block. The description with the steps, how to solve this op
 
 {% include img_smartphone.html name="faq_what_is_the_battery_optimization_2.png" %}
 
-- New list with the applications will be displayed. Click on the <span class="text-blue-100">**Not optimized**</span> label and switch to display **ALL APPLICATIONS**.
+- A new list with the applications will be displayed. Click on the <span class="text-blue-100">**Not optimized**</span> label and switch to display **ALL APPLICATIONS**.
 
 {% include img_smartphone.html name="faq_what_is_the_battery_optimization_3.png" %}
 
 {% include img_smartphone.html name="faq_what_is_the_battery_optimization_4.png" %}
 
-- Search the application **"Orderlord Driver"** (or the name **"Driver"**). Click on the row and change the option to **Don't optimize**. Then click on the <span class="text-blue-100">**Done**</span> button. Everything done, return to the application.
+- Search the application **"Orderlord Driver"** (or the name **"Driver"**). Click on the row and change the option to **Don't optimize**. Then click on the <span class="text-blue-100">**Done**</span> button. Everything is done, return to the application.
 
 {% include img_smartphone.html name="faq_what_is_the_battery_optimization_5.png" %}
 

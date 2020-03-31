@@ -23,4 +23,4 @@ This issue occurs if:
 - else contact [the support](mailto:support@orderlord.com), and we will try to solve the issue
 
 ## The sound is quite
-- the volume of the Android device is {% include icon.html name="volume_down" %} decreased to almost zero or zero. Locate the volume buttons and increase to the maximum
+- the volume of the Android device is {% include icon.html name="volume_down" %} decreased to almost zero or zero. Locate the volume buttons and increase to the maximum.

@@ -15,7 +15,7 @@ permalink: /getting-started/how-to-install-the-application
 
 ## Direct download:
 
-- You could install the application directly from one of this two links:
+- You could install the application directly from one of these two links:
 
 {% include app_links.html %}
 

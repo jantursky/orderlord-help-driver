@@ -30,7 +30,7 @@ permalink: /frequently-asked-questions-faq/what-is-the-disturb-mode
 
 ## How to TURN OFF Disturb mode
 
-- If the highlighted green row is displaying {% include icon.html name="do_not_disturb_on" %} **Access this app "Do Not Disturb" mode**, click on this row. If not, then that means, that this application already granted access to handle **"Do Not Disturb" mode**.
+- If the highlighted green row is displaying {% include icon.html name="do_not_disturb_on" %} **Access this app "Do Not Disturb" mode**, click on this row. If not, then that means, that this application already granted access to handle the **"Do Not Disturb" mode**.
 
 {% include img_smartphone.html name="faq_what_is_the_disturb_mode_1.png" %}
 
@@ -38,6 +38,6 @@ permalink: /frequently-asked-questions-faq/what-is-the-disturb-mode
 
 {% include img_smartphone.html name="faq_what_is_the_disturb_mode_2.png" %}
 
-- Enable access for this application
+- Enable access for this application **Driver**. Everything is done, you could continue working with the application.
 
 {% include img_smartphone.html name="faq_what_is_the_disturb_mode_3.png" %}
